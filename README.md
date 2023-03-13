@@ -16,6 +16,6 @@ I'm a site reliability engineer and content creator on across several platforms,
   <a href="https://tiktok.com/@adamalorna"><img width="42px" alt="TikTok" title="TikTok" src=""></a>
 </p>
 
-<body>
+<p>
     <i class="fa-brands fa-tiktok"></i>
-</body>
+</p>
