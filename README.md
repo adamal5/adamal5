@@ -13,6 +13,8 @@ I'm a site reliability engineer and content creator on across several platforms,
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/UmUdkyETww" alt="Discord" title="Our Tech Journey Server"><img width="42px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="42px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://tiktok.com/@adamalorna"><img width="42px" alt="Dev.to" title="TikTok" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+<i class="fa-brands fa-tiktok"></i>
