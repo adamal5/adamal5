@@ -1,3 +1,7 @@
+<head>
+    <script src="https://kit.fontawesome.com/f0a6d108e3.js" crossorigin="anonymous"></script> 
+</head>
+
 # Adama 👋
 
 **`SRE, Content Creator, Best Life Advocate`**
