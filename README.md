@@ -13,10 +13,4 @@ I'm a site reliability engineer and content creator on across several platforms,
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/UmUdkyETww" alt="Discord" title="Our Tech Journey Server"><img width="42px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://tiktok.com/@adamalorna"><img width="42px" alt="TikTok" title="TikTok" src=""></a>
-  <a href= "www.dgj.com"><i class="fa-brands fa-tiktok"></i></a>
-</p>
-
-<p>
-    <i class="fa-brands fa-tiktok"></i>
 </p>
