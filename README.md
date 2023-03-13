@@ -17,4 +17,6 @@ I'm a site reliability engineer and content creator on across several platforms,
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<body>
 <i class="fa-brands fa-tiktok"></i>
+</body>
