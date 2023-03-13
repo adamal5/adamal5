@@ -1,7 +1,3 @@
-<head> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css" integrity="sha384-QYIZto+st3yW+o8+5OHfT6S482Zsvz2WfOzpFSXMF9zqeLcFV0/wlZpMtyFcZALm" crossorigin="anonymous"> </head>
-
-
-
 # Adama 👋
 
 **`SRE, Content Creator, Best Life Advocate`**
@@ -13,7 +9,7 @@ I'm a site reliability engineer and content creator on across several platforms,
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/UmUdkyETww" alt="Discord" title="Our Tech Journey Server"><img width="42px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://tiktok.com/@adamalorna"><img width="42px" alt="Dev.to" title="TikTok" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://tiktok.com/@adamalorna"><img width="42px" alt="Dev.to" title="TikTok" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F8a%2F25%2Fc4%2F8a25c4a96e35bfba5f6a0db4ff888b6b.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ftiktok-logoicon-pink-instagram-story--743797694720423821%2F&tbnid=wbKkhE2kl1--zM&vet=12ahUKEwjw1bOK9dn9AhV5mycCHYhNAa8QMygAegUIARDrAQ..i&docid=InNW4sd2lrckUM&w=736&h=725&q=tiktok%20icon&hl=en&ved=2ahUKEwjw1bOK9dn9AhV5mycCHYhNAa8QMygAegUIARDrAQ"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
