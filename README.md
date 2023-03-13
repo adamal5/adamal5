@@ -15,8 +15,10 @@ I'm a site reliability engineer and content creator on across several platforms,
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+#
 
-### 🧰 Languages and Tools
+
+## 🧰 Languages and Tools
 Here are some of the tools and languages I have experience with and use in projects:
 <p align="center">
 <img align="centre" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -29,10 +31,17 @@ Here are some of the tools and languages I have experience with and use in proje
 <img align="centre" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />    
 </p>
 
-### My Latest YouTube Videos
+#
+
+## 🎥 My Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Advancing in your tech career ✨](https://ytcards.demolab.com/?id=40iPbXvpLT0&title=Advancing+in+your+tech+career+%E2%9C%A8&lang=en&timestamp=1678642330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Advancing in your tech career ✨")](https://www.youtube.com/watch?v=40iPbXvpLT0)
 [![8 thing you NEED to know about working in TECH *Watch BEFORE your first job*](https://ytcards.demolab.com/?id=5BSUNipgOc0&title=8+thing+you+NEED+to+know+about+working+in+TECH+%2AWatch+BEFORE+your+first+job%2A&lang=en&timestamp=1678616545&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "8 thing you NEED to know about working in TECH *Watch BEFORE your first job*")](https://www.youtube.com/watch?v=5BSUNipgOc0)
 [![Learn to code for free with CodeAcademy!](https://ytcards.demolab.com/?id=sa3LX7AB0TE&title=Learn+to+code+for+free+with+CodeAcademy%21&lang=en&timestamp=1678609897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Learn to code for free with CodeAcademy!")](https://www.youtube.com/watch?v=sa3LX7AB0TE)
 <!-- END YOUTUBE-CARDS -->
+
+#
+
+## 📊 GitHub Stats
+![Adama's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamal5&show_icons=true&theme=gruvbox)
