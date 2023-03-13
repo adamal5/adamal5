@@ -1,5 +1,5 @@
 <head>
-    <script src="https://kit.fontawesome.com/f0a6d108e3.js" crossorigin="anonymous"></script> 
+    <link rel="stylesheet" href="https://kit.fontawesome.com/f0a6d108e3.css" crossorigin="anonymous">
 </head>
 
 # Adama 👋
