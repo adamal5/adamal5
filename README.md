@@ -38,6 +38,10 @@ Here are some of the tools and languages I have experience with and use in proje
 [![Learn to code for free with CodeAcademy!](https://ytcards.demolab.com/?id=sa3LX7AB0TE&title=Learn+to+code+for+free+with+CodeAcademy%21&lang=en&timestamp=1678609897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Learn to code for free with CodeAcademy!")](https://www.youtube.com/watch?v=sa3LX7AB0TE)
 <!-- END YOUTUBE-CARDS -->
 
+## 👩🏾‍💻 Currently Working On..
+I am currently working on an content creator assistant web application. The application is integrated with ChatGPT to aid in generating ideas and the copy that accompanies longform and short form content.
+
+Once the application is built, I will look to deploy it into the cloud in a containerised infrastructure model with a CI/CD pipeline and IaC provisioned resources.
 
 ## 📊 GitHub Stats
 ![Adama's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamal5&show_icons=true&theme=gruvbox)
