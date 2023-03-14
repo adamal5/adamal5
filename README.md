@@ -4,9 +4,9 @@
 
 # Adama 👋
 
-**`SRE, Content Creator, Best Life Advocate`**
+**`SRE, Content Creator & Best Life Advocate`**
 
-I'm a site reliability engineer and content creator on across several platforms, including YouTube and TikTok. I build projects here that help develop my skills as an SRE as well as use for examples by others looking to develop their skills. 
+I'm a site reliability engineer and content creator on across several platforms, including YouTube and TikTok. I build projects here that help develop my skills as an SRE as well as use for examples by others looking to develop their skills. I have worked in both the insurance and travel sector for some of the largest companies in the industry leading projects such as monitoring tool migration, cloud cost optimisation, cloud security and automation as well as SLO and SLI builinding.
 
 <p align="center">
   <a href="https://www.youtube.com/c/adamatalkstech"><img width="42px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
