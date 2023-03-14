@@ -15,8 +15,6 @@ I'm a site reliability engineer and content creator on across several platforms,
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-#
-
 
 ## 🧰 Languages and Tools
 Here are some of the tools and languages I have experience with and use in projects:
@@ -31,8 +29,6 @@ Here are some of the tools and languages I have experience with and use in proje
 <img align="centre" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />    
 </p>
 
-#
-
 ## 🎥 My Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -42,7 +38,6 @@ Here are some of the tools and languages I have experience with and use in proje
 [![Learn to code for free with CodeAcademy!](https://ytcards.demolab.com/?id=sa3LX7AB0TE&title=Learn+to+code+for+free+with+CodeAcademy%21&lang=en&timestamp=1678609897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Learn to code for free with CodeAcademy!")](https://www.youtube.com/watch?v=sa3LX7AB0TE)
 <!-- END YOUTUBE-CARDS -->
 
-#
 
 ## 📊 GitHub Stats
 ![Adama's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamal5&show_icons=true&theme=gruvbox)
