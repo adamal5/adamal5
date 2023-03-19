@@ -40,9 +40,11 @@ Here are some of the tools and languages I have experience with and use in proje
 
 ## 👩🏾‍💻 Currently Working On..
 ![Website Landing Page](Design-Mock-Up.png)
-I am currently working on an content creator assistant web application. The application is integrated with ChatGPT to aid in generating ideas and the copy that accompanies long form and short form content.
+I am currently working on an content creator assistant web application. The application is integrated with OpenAI API to aid in generating ideas and the copy that accompanies long form and short form content.
 
 Once the application is built, I will look to deploy it into the cloud in a containerised infrastructure model with a CI/CD pipeline and IaC provisioned resources.
+
+This repo is currently private but happy to answer questions if you have any 😊.
 
 ## 📊 GitHub Stats
 ![Adama's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamal5&show_icons=true&theme=gruvbox)
