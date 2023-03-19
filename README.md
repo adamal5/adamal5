@@ -29,6 +29,16 @@ Here are some of the tools and languages I have experience with and use in proje
 <img align="centre" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />    
 </p>
 
+## 👩🏾‍💻 Currently Working On..
+![Website Landing Page](Design-Mock-Up.png)
+I am currently working on an content creator assistant web application. The application is integrated with OpenAI API to aid in generating ideas and the copy that accompanies long form and short form content.
+
+The application in version 1 is being deployed in AWS in an event driven architecture leveraging the following AWS Services:
+- Lambda
+-
+
+This repo is currently private but happy to answer questions if you have any 😊.
+
 ## 🎥 My Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -38,13 +48,6 @@ Here are some of the tools and languages I have experience with and use in proje
 [![Learn to code for free with CodeAcademy!](https://ytcards.demolab.com/?id=sa3LX7AB0TE&title=Learn+to+code+for+free+with+CodeAcademy%21&lang=en&timestamp=1678609897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Learn to code for free with CodeAcademy!")](https://www.youtube.com/watch?v=sa3LX7AB0TE)
 <!-- END YOUTUBE-CARDS -->
 
-## 👩🏾‍💻 Currently Working On..
-![Website Landing Page](Design-Mock-Up.png)
-I am currently working on an content creator assistant web application. The application is integrated with OpenAI API to aid in generating ideas and the copy that accompanies long form and short form content.
-
-Once the application is built, I will look to deploy it into the cloud in a containerised infrastructure model with a CI/CD pipeline and IaC provisioned resources.
-
-This repo is currently private but happy to answer questions if you have any 😊.
 
 ## 📊 GitHub Stats
 ![Adama's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamal5&show_icons=true&theme=gruvbox)
