@@ -31,13 +31,20 @@ Here are some of the tools and languages I have experience with and use in proje
 
 ## 👩🏾‍💻 Currently Working On..
 ![Website Landing Page](Design-Mock-Up.png)
+### The AI Driven Assistant
 I am currently working on an content creator assistant web application. The application is integrated with OpenAI API to aid in generating ideas and the copy that accompanies long form and short form content.
 
 The application in version 1 is being deployed in AWS in an event driven architecture leveraging the following AWS Services:
 - Lambda
--
+    - The node.js backend runs on Lambda when invoked. 
+- API Gateway
+    - A public api craeted in API Gateway connects the application frontend and the backend 
+- S3
+    - The React frontend is served to users via a S3 bucket with static webiste hosting enabled. 
 
-This repo is currently private but happy to answer questions if you have any 😊.
+Subsequent versions of this application will include increased functionality, login and storage capabilities as well as improved hosting architecture.
+
+The application and infrastructure repositories for this project are currently private but happy to answer questions if you have any 😊.
 
 ## 🎥 My Latest YouTube Videos
 
