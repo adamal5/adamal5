@@ -48,6 +48,12 @@ The application and infrastructure repositories for this project are currently p
 
 ## 🎥 My Latest YouTube Videos
 
+### Content Explained
+I have two YouTube channels 
+1. The first channel has ocer 50,000 subscribers and is dedicated to personal development and improvement (formally tech videos were also posted here and can be found in the Tech & Careers Playlist)
+2. My second channel which i only just launched is exclusively focused on tech and the latest videos can be found below. 
+3. My TikTok focused on tech also can be found here: https://www.tiktok.com/@adamalorna
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![The Tech Job you Never Hear About | What is Site Reliability Engineering?](https://ytcards.demolab.com/?id=YV8tU3r-DgA&title=The+Tech+Job+you+Never+Hear+About+%7C+What+is+Site+Reliability+Engineering%3F&lang=en&timestamp=1678661086&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "The Tech Job you Never Hear About | What is Site Reliability Engineering?")](https://www.youtube.com/watch?v=YV8tU3r-DgA)
 [![Advancing in your tech career ✨](https://ytcards.demolab.com/?id=40iPbXvpLT0&title=Advancing+in+your+tech+career+%E2%9C%A8&lang=en&timestamp=1678642330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Advancing in your tech career ✨")](https://www.youtube.com/watch?v=40iPbXvpLT0)
