@@ -49,7 +49,7 @@ The application and infrastructure repositories for this project are currently p
 ## 🎥 My Latest YouTube Videos
 
 ### Content Explained
-I have two YouTube channels 
+I have two YouTube channels & one TikTok:
 1. The first channel has ocer 50,000 subscribers and is dedicated to personal development and improvement (formally tech videos were also posted here and can be found in the Tech & Careers Playlist)
 2. My second channel which i only just launched is exclusively focused on tech and the latest videos can be found below. 
 3. My TikTok focused on tech also can be found here: https://www.tiktok.com/@adamalorna
